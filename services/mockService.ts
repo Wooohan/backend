@@ -4,7 +4,6 @@ import { CarrierData, User, InsurancePolicy, BasicScore, OosRate, BlockedIP } fr
 // CONSTANTS
 // ============================================================
 const BASE_URL = import.meta.env.VITE_BACKEND_URL || ''; // Points to persistent backend server
-
 // ============================================================
 // FETCH — always routes through /api/proxy (Vercel datacenter IP)
 // ============================================================
