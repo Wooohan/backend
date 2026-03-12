@@ -1,7 +1,7 @@
 import { CarrierData, User, InsurancePolicy, BasicScore, OosRate, BlockedIP } from '../types';
 
 // ============================================================
-// CONSTANTS
+// CONSTANTS.
 // ============================================================
 const BASE_URL = import.meta.env.VITE_BACKEND_URL || ''; // Points to persistent backend server
 
